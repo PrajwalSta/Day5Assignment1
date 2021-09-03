@@ -1,0 +1,21 @@
+
+    
+table{
+    background-image: url(image.jpg);
+    background-attachment: fixed;
+    border: 1px solid #000;
+    width: 100%;
+    
+   
+border-collapse: collapse;
+}
+.left{
+           border: 1px solid #000;
+           width: 100%;
+           color: slateblue;
+           
+}
+td{
+    color:green;
+    font-style: italic;
+}
